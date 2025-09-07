@@ -6,8 +6,8 @@ This repository provides a lightweight, fully reproducible companion to the arti
 > Adam Suski, Ilka Deleque Curiel, Debabrata Chattopadhyay, Sushanta Chatterjee, Dzenan Malovic (2025)
 
 The companion contains just **two files**:
-1. `storage_profitability_model.py` — a compact MILP-based model for evaluating storage/hydro profitability under multiple business cases.
-2. `inputs_india_companion.xlsx` — minimal input workbook (prices, inflows, techno-economics, and scenario settings).
+1. `model.gms` — a compact MILP-based model for evaluating storage/hydro profitability under multiple business cases.
+2. `Input_India.xlsx` — minimal input workbook (prices, inflows, techno-economics).
 
 ---
 
