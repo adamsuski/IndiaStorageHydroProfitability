@@ -5,13 +5,13 @@ This repository provides a lightweight, fully reproducible companion to the arti
 > **Evaluating storage profitability: A market-based comparison of hydro and battery options in India**  
 > Adam Suski, Ilka Deleque Curiel, Debabrata Chattopadhyay, Sushanta Chatterjee, Dzenan Malovic (2025)
 
-The companion contains just **two files**:
+The companion contains **two files**:
 1. `model.gms` — a compact MILP-based model for evaluating storage/hydro profitability under multiple business cases.
 2. `Input_India.xlsx` — minimal input workbook (prices, inflows, techno-economics).
 
 ---
 
-## What this code does (in one minute)
+## What this code does
 
 - Implements a **price-taker** mixed-integer linear program that optimizes hourly dispatch and monthly contract volumes.  
 - Evaluates **three business cases** consistently across technologies:
