@@ -1,9 +1,7 @@
 
 $ontext
-* Descriptive section about the analysis
-
 *************** India's Hybrid Solar-Wind-BESS Project Analysis ******************
-********************************* February 2022 *************************************
+********************************* February 2025 *************************************
 Description: This analysis aims to evaluate the financial viability and market potential of various energy 
 storage options in India, including Battery Energy Storage Systems (BESS), Pumped Storage Hydro Plants (PSP), 
 and Run-of-the-River (ROR) hydro schemes. The study leverages an optimization model to assess energy arbitrage 
@@ -634,6 +632,7 @@ execute_unload 'FV.gdx' FV, AnnualParameters, pPPPAveragePrice, ContractPrice, v
 execute_unload 'All.gdx' 
 
 $exit
+
 
 
 
